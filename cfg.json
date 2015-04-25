@@ -1,0 +1,16 @@
+﻿{
+    "maxCharBeforeLog": "9999",
+    "log": {
+        "logToFile": "true",
+        "hidden": "true",
+        "location": ""
+    },
+    "email": {
+        "sendEmail": "true",
+        "smpt": "",
+        "port": "",
+        "email": "",
+        "password": "",
+        "to": ""
+    }
+}
